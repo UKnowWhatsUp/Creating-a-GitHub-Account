@@ -1,0 +1,65 @@
+---
+title: "Creating a GitHub Account"
+author: "CristobalAvila"
+date: "12/12/2021"
+output: html_document
+---
+
+# DSCI 412 1W 21/FA2: What I Learned
+
+## Module 1: Predictive Modeling & Processes
+
+- Learned how to create an Rmarkdown file as well as how to save it and upload it
+- Further dug down and found out the MSE
+
+## Module 2: Data Exploration
+
+- Learned how to correctly read the summary for our data and how to drop columns if needed
+- Learned how to read the summary for a column within the data set
+
+## Module 3: Linear Regression
+
+- Better understood the linear regression and how to utilize it during a study
+- Learned how to create a box plot and how to correct if, if I did not get the correct output
+
+## Module 4: Classification
+
+- Learned how to build a glm model while using multiple columns from the data
+- Learned what the logistic regression is and how to read, understand and correct it
+
+## Module 5: Generalized Linear Models
+
+- Learned how and why we convert groups into factors (i.e. gender and age)
+- Learned the reason why we use Poisson and Gamma regression
+
+## Module 6: Tree Based Models
+
+- Learned how to apply and plot trees
+- Learned how to trim and correct the trees
+
+## Module 7: Unsupervised Methods
+
+- Learned hwo to break down kmeans and what each input in the series means
+- Learned how to pick the optimal number of clusters and how to plot it
+
+## Module 8: Delivering Results
+
+- Learned how to set up a GitHub Account.
+- Leanred how to put everything I learned this semester together.
+
+---
+
+---
+output:
+  ioslides_presentation:
+    incremental: true
+---
+
+---
+output:
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+---
+
+## Getting up {.smaller}
